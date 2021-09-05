@@ -6,18 +6,13 @@
 
 from polepsaj_kvote import polepsaj_kvote
 
-def vrni_napoved(datoteka_kvot, datoteka_popular_prediction=None):
+def vrni_napoved(seznam_popularnih_rezultatov, datoteka_kvot, matchday):
     # Tabela kvot
-    kvote_polepsane = polepsaj_kvote(datoteka_kvot)
+    kvote_polepsane = polepsaj_kvote(datoteka_kvot, matchday)
     kvote = kvote_polepsane[2]
 
     # Popularni rezulati, ki ne prinašajo dodatnih dveh točk
-    popularni_rezultati = [
-        "2:1",
-        "1:2",
-        "",
-        "" 
-    ]
+    popularni_rezultati = seznam_popularnih_rezultatov
 
     # Prva in druga ekipa (pazi vrstni red glede na kvote)
     ekipe = [kvote_polepsane[0], kvote_polepsane[1]]
@@ -40,8 +35,8 @@ def vrni_napoved(datoteka_kvot, datoteka_popular_prediction=None):
         najboljsa_napoved = "0:0"
         upanje1 = 0
         upanje_trenutno = 0
-        for i in range(6):
-            for j in range(6):
+        for i in range(10):
+            for j in range(10):
                 rezultat = str(i) + ":" + str(j)
                 upanje_trenutno = upanje(rezultat, verjetnosti, popularni)
                 if upanje_trenutno >= upanje1:
@@ -58,15 +53,15 @@ def vrni_napoved(datoteka_kvot, datoteka_popular_prediction=None):
     def verjetnosti(kvote):
         vsota_kvot = 0
         slovar = {}
-        for i in range(6):
-            for j in range(6):
+        for i in range(10):
+            for j in range(10):
                 niz = str(i) + ":" + str(j)
                 if niz not in kvote.keys():
                     continue
                 if kvote[niz] != 0:
                     vsota_kvot += (1 / kvote[niz])
-        for i in range(6):
-            for j in range(6):
+        for i in range(10):
+            for j in range(10):
                 niz = str(i) + ":" + str(j)
                 if (niz not in kvote.keys()): slovar[niz] = 0
                 elif kvote[niz] == 0: slovar[niz] = 0
@@ -79,8 +74,8 @@ def vrni_napoved(datoteka_kvot, datoteka_popular_prediction=None):
     ### UPANJE REZULTATA ###
     def upanje(rezultat, verjetnosti, popularni):
         upanje1 = 0
-        for i in range(6):
-            for j in range(6):
+        for i in range(10):
+            for j in range(10):
                 napoved = str(i) + ":" + str(j)
                 if verjetnosti[napoved] > 0:
                     upanje1 += verjetnosti[napoved] * tocke(rezultat, napoved, popularni)

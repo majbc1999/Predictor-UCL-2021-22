@@ -1,8 +1,8 @@
 from vrni_kvote_iz_html import vrni_kvote_iz_html
 import re
 
-def polepsaj_kvote(datoteka):
-    kvote = vrni_kvote_iz_html(datoteka)
+def polepsaj_kvote(datoteka, matchday):
+    kvote = vrni_kvote_iz_html(datoteka, matchday)
     ekipa1 = kvote[0]
     ekipa2 = kvote[1]
     slovar = kvote[2]

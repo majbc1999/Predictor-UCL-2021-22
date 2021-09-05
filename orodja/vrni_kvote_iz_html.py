@@ -1,8 +1,8 @@
 import re
 from orodja import vsebina_datoteke
 
-def vrni_kvote_iz_html(datoteka):
-    tekma = vsebina_datoteke('test/' + datoteka + '.html')
+def vrni_kvote_iz_html(datoteka, matchday):
+    tekma = vsebina_datoteke('html/' + matchday + '/' + datoteka + '.html')
 
     vzorec_za_rezulat = re.compile(
         r'<span class="float-wrap name-wrap"><span class="tcell"><div class="top-row"><a class="popup selTxt" target="_blank" title="View odds history for .*?" '
