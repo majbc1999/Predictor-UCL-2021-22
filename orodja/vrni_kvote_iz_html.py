@@ -1,5 +1,5 @@
 import re
-from orodja import vsebina_datoteke
+from orodja import vsebina_datoteke, convert_to_float
 
 def vrni_kvote_iz_html(datoteka, matchday):
     tekma = vsebina_datoteke('html/' + matchday + '/' + datoteka + '.html')
@@ -27,7 +27,7 @@ def vrni_kvote_iz_html(datoteka, matchday):
     slovar = {}
     for razplet in re.finditer(vzorec_za_rezulat, tekma):
             rezultat = razplet['ekipa_rezultat']
-            kvote = razplet['kvote']
+            kvote = convert_to_float(razplet['kvote'])
             slovar[rezultat] = kvote
 
     for ekipa in re.finditer(vzorec_za_ekipe, tekma):
