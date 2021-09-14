@@ -2,12 +2,14 @@
 from urllib.request import Request, urlopen
 
 def shrani_wp(link, stevilka, path):
+    print('Shranjujem...' + stevilka)
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()
 
     with open(path + stevilka + '.html', 'wb') as f:
         f.write(webpage)
         f.close()
+        print('Uspešno shranjeno...' + stevilka)
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -39,19 +41,19 @@ link16 = 'https://www.oddschecker.com/football/champions-league/sporting-v-ajax/
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Tukaj shrani strani
-shrani_wp(link01, '01', pot)
-shrani_wp(link02, '02', pot)
+#shrani_wp(link01, '01', pot)
+#shrani_wp(link02, '02', pot)
 shrani_wp(link03, '03', pot)
-shrani_wp(link04, '04', pot)
-shrani_wp(link05, '05', pot)
-shrani_wp(link06, '06', pot)
-shrani_wp(link07, '07', pot)
-shrani_wp(link08, '08', pot)
-shrani_wp(link09, '09', pot)
-shrani_wp(link10, '10', pot)
-shrani_wp(link11, '11', pot)
-shrani_wp(link12, '12', pot)
-shrani_wp(link13, '13', pot)
-shrani_wp(link14, '14', pot)
-shrani_wp(link15, '15', pot)
-shrani_wp(link16, '16', pot)
+#shrani_wp(link04, '04', pot)
+#shrani_wp(link05, '05', pot)
+#shrani_wp(link06, '06', pot)
+#shrani_wp(link07, '07', pot)
+#shrani_wp(link08, '08', pot)
+#shrani_wp(link09, '09', pot)
+#shrani_wp(link10, '10', pot)
+#shrani_wp(link11, '11', pot)
+#shrani_wp(link12, '12', pot)
+#shrani_wp(link13, '13', pot)
+#shrani_wp(link14, '14', pot)
+#shrani_wp(link15, '15', pot)
+#shrani_wp(link16, '16', pot)
