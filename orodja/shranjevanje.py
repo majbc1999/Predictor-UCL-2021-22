@@ -18,8 +18,6 @@ pot = 'html/1/'
 
 
 
-
-
 link01 = 'https://www.oddschecker.com/football/champions-league/sevilla-v-fc-salzburg/correct-score'
 link02 = 'https://www.oddschecker.com/football/champions-league/young-boys-v-man-utd/correct-score'
 link03 = 'https://www.oddschecker.com/football/champions-league/barcelona-v-bayern-munich/correct-score'
@@ -41,19 +39,21 @@ link16 = 'https://www.oddschecker.com/football/champions-league/sporting-v-ajax/
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Tukaj shrani strani
+
 #shrani_wp(link01, '01', pot)
 #shrani_wp(link02, '02', pot)
-shrani_wp(link03, '03', pot)
+#shrani_wp(link03, '03', pot)
 #shrani_wp(link04, '04', pot)
 #shrani_wp(link05, '05', pot)
 #shrani_wp(link06, '06', pot)
 #shrani_wp(link07, '07', pot)
 #shrani_wp(link08, '08', pot)
-#shrani_wp(link09, '09', pot)
-#shrani_wp(link10, '10', pot)
-#shrani_wp(link11, '11', pot)
-#shrani_wp(link12, '12', pot)
-#shrani_wp(link13, '13', pot)
-#shrani_wp(link14, '14', pot)
-#shrani_wp(link15, '15', pot)
-#shrani_wp(link16, '16', pot)
+
+shrani_wp(link09, '09', pot)
+shrani_wp(link10, '10', pot)
+shrani_wp(link11, '11', pot)
+shrani_wp(link12, '12', pot)
+shrani_wp(link13, '13', pot)
+shrani_wp(link14, '14', pot)
+shrani_wp(link15, '15', pot)
+shrani_wp(link16, '16', pot)
