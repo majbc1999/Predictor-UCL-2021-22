@@ -1,53 +1,63 @@
 # Orodja za shranjevanje spletne strani
 from urllib.request import Request, urlopen
+import os
+
+def pripravi_imenik(ime_datoteke):
+    '''Če še ne obstaja, pripravi prazen imenik za dano datoteko.'''
+    imenik = os.path.dirname(ime_datoteke)
+    if imenik:
+        os.makedirs(imenik, exist_ok=True)
 
 def shrani_wp(link, stevilka, path):
     print('Shranjujem...' + stevilka)
     req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()
 
+    pripravi_imenik(path + stevilka + '.html')
     with open(path + stevilka + '.html', 'wb') as f:
         f.write(webpage)
         f.close()
         print('Uspešno shranjeno...' + stevilka)
 
+
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-pot = 'html/1/'
+pot = 'html/2/'
 
 
 
-link01 = 'https://www.oddschecker.com/football/champions-league/sevilla-v-fc-salzburg/correct-score'
-link02 = 'https://www.oddschecker.com/football/champions-league/young-boys-v-man-utd/correct-score'
-link03 = 'https://www.oddschecker.com/football/champions-league/barcelona-v-bayern-munich/correct-score'
-link04 = 'https://www.oddschecker.com/football/champions-league/chelsea-v-zenit-st-petersburg/correct-score'
-link05 = 'https://www.oddschecker.com/football/champions-league/dynamo-kiev-v-benfica/correct-score'
-link06 = 'https://www.oddschecker.com/football/champions-league/lille-v-wolfsburg/correct-score'
-link07 = 'https://www.oddschecker.com/football/champions-league/malmo-ff-v-juventus/correct-score'
-link08 = 'https://www.oddschecker.com/football/champions-league/villarreal-v-atalanta/correct-score'
-link09 = 'https://www.oddschecker.com/football/champions-league/besiktas-v-borussia-dortmund/correct-score'
-link10 = 'https://www.oddschecker.com/football/champions-league/sheriff-tiraspol-v-shakhtar-donetsk/correct-score'
-link11 = 'https://www.oddschecker.com/football/champions-league/atletico-madrid-v-fc-porto/correct-score'
-link12 = 'https://www.oddschecker.com/football/champions-league/club-brugge-v-psg/correct-score'
-link13 = 'https://www.oddschecker.com/football/champions-league/inter-milan-v-real-madrid/correct-score'
-link14 = 'https://www.oddschecker.com/football/champions-league/liverpool-v-ac-milan/correct-score'
-link15 = 'https://www.oddschecker.com/football/champions-league/man-city-v-rb-leipzig/correct-score'
-link16 = 'https://www.oddschecker.com/football/champions-league/sporting-v-ajax/correct-score'
+link01 = 'https://www.oddschecker.com/football/champions-league/shakhtar-donetsk-v-inter-milan/correct-score'
+link02 = 'https://www.oddschecker.com/football/champions-league/ajax-v-besiktas/correct-score'
+link03 = 'https://www.oddschecker.com/football/champions-league/borussia-dortmund-v-sporting/correct-score'
+link04 = 'https://www.oddschecker.com/football/champions-league/psg-v-man-city/correct-score'
+link05 = 'https://www.oddschecker.com/football/champions-league/fc-porto-v-liverpool/correct-score'
+link06 = 'https://www.oddschecker.com/football/champions-league/real-madrid-v-sheriff-tiraspol/correct-score'
+link07 = 'https://www.oddschecker.com/football/champions-league/rb-leipzig-v-club-brugge/correct-score'
+link08 = 'https://www.oddschecker.com/football/champions-league/ac-milan-v-atletico-madrid/correct-score'
+
+link09 = 'https://www.oddschecker.com/football/champions-league/zenit-st-petersburg-v-malmo-ff/correct-score'
+link10 = 'https://www.oddschecker.com/football/champions-league/atalanta-v-young-boys/correct-score'
+link11 = 'https://www.oddschecker.com/football/champions-league/juventus-v-chelsea/correct-score'
+link12 = 'https://www.oddschecker.com/football/champions-league/man-utd-v-villarreal/correct-score'
+link13 = 'https://www.oddschecker.com/football/champions-league/bayern-munich-v-dynamo-kiev/correct-score'
+link14 = 'https://www.oddschecker.com/football/champions-league/benfica-v-barcelona/correct-score'
+link15 = 'https://www.oddschecker.com/football/champions-league/wolfsburg-v-sevilla/correct-score'
+link16 = 'https://www.oddschecker.com/football/champions-league/fc-salzburg-v-lille/correct-score'
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 # Tukaj shrani strani
 
-#shrani_wp(link01, '01', pot)
-#shrani_wp(link02, '02', pot)
-#shrani_wp(link03, '03', pot)
-#shrani_wp(link04, '04', pot)
-#shrani_wp(link05, '05', pot)
-#shrani_wp(link06, '06', pot)
-#shrani_wp(link07, '07', pot)
-#shrani_wp(link08, '08', pot)
+shrani_wp(link01, '01', pot)
+shrani_wp(link02, '02', pot)
+shrani_wp(link03, '03', pot)
+shrani_wp(link04, '04', pot)
+shrani_wp(link05, '05', pot)
+shrani_wp(link06, '06', pot)
+shrani_wp(link07, '07', pot)
+shrani_wp(link08, '08', pot)
 
 shrani_wp(link09, '09', pot)
 shrani_wp(link10, '10', pot)
