@@ -11,8 +11,8 @@ Verjetnosti točk:
      3 ...... 14.0%
      4 ...... 35.4%
      6 ...... 10.9%
-
-Čas računanja: 0.018 sekund
+ 
+Čas računanja: 0.022 sekund
 
 Končni rezultat:
 Končne točke:
@@ -22,17 +22,17 @@ Končne točke:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ATALANTA : YOUNG BOYS
  
-Najboljša napoved je: Atalanta 2:1 Young Boys
-Pričakovane točke = 2.79
+Najboljša napoved je: Atalanta 1:0 Young Boys
+Pričakovane točke = 2.89
 
 Verjetnosti točk:
-     0 ...... 16.4%
-     1 ...... 17.8%
-     3 ...... 20.4%
-     4 ...... 36.4%
-     6 ...... 9.0%
+     0 ...... 16.9%
+     1 ...... 17.4%
+     3 ...... 21.1%
+     4 ...... 37.2%
+     8 ...... 7.5%
 
-Čas računanja: 0.021 sekund
+Čas računanja: 0.022 sekund
 
 Končni rezultat:
 Končne točke:
