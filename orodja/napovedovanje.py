@@ -14,14 +14,14 @@ sez06 = ["3:0", "2:0", "4:0", ""]
 sez07 = ["2:1", "2:0", "1:0", "1:1", "3:1"]
 sez08 = ["1:1", "1:2", "2:1", "2:2"]
 
-#sez09 = ["1:0", "2:0", "2:1", "1:1", ""]
-#sez10 = ["2:0", "2:1", "3:1", ""]
-#sez11 = ["1:2", "0:2", "1:3", "1:1"]
+sez09 = ["1:0", "2:0", "2:1", "1:1", ""]
+sez10 = ["2:0", "2:1", "3:1", ""]
+sez11 = ["1:2", "0:2", "1:3", "1:1"]
 sez12 = ["2:1", "2:0", "3:1", ""]
-#sez13 = ["4:0", "3:0", "5:0", ""]
-#sez14 = ["1:2", "0:2", "1:3", "1:1"]
-#sez15 = ["1:2", "1:1", "0:1", "0:2"]
-#sez16 = ["1:1", "1:2", "2:1", "0:1"]
+sez13 = ["4:0", "3:0", "5:0", ""]
+sez14 = ["1:2", "0:2", "1:3", "1:1"]
+sez15 = ["1:2", "1:1", "0:1", "0:2"]
+sez16 = ["1:1", "1:2", "2:1", "0:1"]
 
 # Tukaj izračuna vse
 
@@ -38,9 +38,9 @@ sez12 = ["2:1", "2:0", "3:1", ""]
 # Tekme 29.9.
 #vrni_napoved(sez09, '09', matchday)
 #vrni_napoved(sez10, '10', matchday)
-#vrni_napoved(sez11, '11', matchday)
+vrni_napoved(sez11, '11', matchday)
 vrni_napoved(sez12, '12', matchday)
-#vrni_napoved(sez13, '13', matchday)
-#vrni_napoved(sez14, '14', matchday)
-#vrni_napoved(sez15, '15', matchday)
-#vrni_napoved(sez16, '16', matchday)
+vrni_napoved(sez13, '13', matchday)
+vrni_napoved(sez14, '14', matchday)
+vrni_napoved(sez15, '15', matchday)
+vrni_napoved(sez16, '16', matchday)
