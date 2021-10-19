@@ -10,7 +10,7 @@ def pripravi_imenik(ime_datoteke):
 
 def shrani_wp(link, stevilka, path):
     print('Shranjujem...' + stevilka)
-    req = Request(link, headers={'User-Agent': 'Mozilla/5.0'})
+    req = Request(link, headers = {'User-Agent': 'Mozilla/5.0'})
     webpage = urlopen(req).read()
 
     pripravi_imenik(path + stevilka + '.html')
@@ -23,27 +23,25 @@ def shrani_wp(link, stevilka, path):
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-pot = 'html/2/'
+pot = 'html/3/'
 
+link01 = 'https://www.oddschecker.com/football/champions-league/besiktas-v-sporting/winner'
+link02 = 'https://www.oddschecker.com/football/champions-league/club-brugge-v-man-city/winner'
+link03 = 'https://www.oddschecker.com/football/champions-league/inter-milan-v-sheriff-tiraspol/winner'
+link04 = 'https://www.oddschecker.com/football/champions-league/shakhtar-donetsk-v-real-madrid/winner'
+link05 = 'https://www.oddschecker.com/football/champions-league/ajax-v-borussia-dortmund/winner'
+link06 = 'https://www.oddschecker.com/football/champions-league/fc-porto-v-ac-milan/winner'
+link07 = 'https://www.oddschecker.com/football/champions-league/atletico-madrid-v-liverpool/winner'
+link08 = 'https://www.oddschecker.com/football/champions-league/psg-v-rb-leipzig/winner'
 
-
-link01 = 'https://www.oddschecker.com/football/champions-league/shakhtar-donetsk-v-inter-milan/correct-score'
-link02 = 'https://www.oddschecker.com/football/champions-league/ajax-v-besiktas/correct-score'
-link03 = 'https://www.oddschecker.com/football/champions-league/borussia-dortmund-v-sporting/correct-score'
-link04 = 'https://www.oddschecker.com/football/champions-league/psg-v-man-city/correct-score'
-link05 = 'https://www.oddschecker.com/football/champions-league/fc-porto-v-liverpool/correct-score'
-link06 = 'https://www.oddschecker.com/football/champions-league/real-madrid-v-sheriff-tiraspol/correct-score'
-link07 = 'https://www.oddschecker.com/football/champions-league/rb-leipzig-v-club-brugge/correct-score'
-link08 = 'https://www.oddschecker.com/football/champions-league/ac-milan-v-atletico-madrid/correct-score'
-
-link09 = 'https://www.oddschecker.com/football/champions-league/zenit-st-petersburg-v-malmo-ff/correct-score'
-link10 = 'https://www.oddschecker.com/football/champions-league/atalanta-v-young-boys/correct-score'
-link11 = 'https://www.oddschecker.com/football/champions-league/juventus-v-chelsea/correct-score'
-link12 = 'https://www.oddschecker.com/football/champions-league/man-utd-v-villarreal/correct-score'
-link13 = 'https://www.oddschecker.com/football/champions-league/bayern-munich-v-dynamo-kiev/correct-score'
-link14 = 'https://www.oddschecker.com/football/champions-league/benfica-v-barcelona/correct-score'
-link15 = 'https://www.oddschecker.com/football/champions-league/wolfsburg-v-sevilla/correct-score'
-link16 = 'https://www.oddschecker.com/football/champions-league/fc-salzburg-v-lille/correct-score'
+link09 = 'https://www.oddschecker.com/football/champions-league/barcelona-v-dynamo-kiev/winner'
+link10 = 'https://www.oddschecker.com/football/champions-league/fc-salzburg-v-wolfsburg/winner'
+link11 = 'https://www.oddschecker.com/football/champions-league/chelsea-v-malmo-ff/winner'
+link12 = 'https://www.oddschecker.com/football/champions-league/zenit-st-petersburg-v-juventus/winner'
+link13 = 'https://www.oddschecker.com/football/champions-league/benfica-v-bayern-munich/winner'
+link14 = 'https://www.oddschecker.com/football/champions-league/lille-v-sevilla/winner'
+link15 = 'https://www.oddschecker.com/football/champions-league/young-boys-v-villarreal/winner'
+link16 = 'https://www.oddschecker.com/football/champions-league/man-utd-v-atalanta/winner'
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
