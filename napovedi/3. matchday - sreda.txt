@@ -12,17 +12,17 @@ Verjetnosti točk:
      4 ...... 50.2%
      6 ...... 11.7%
 
-Čas računanja: 0.028 sekund
+Čas računanja: 0.024 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 1:0
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 FC SALZBURG : WOLFSBURG
  
-Najboljša napoved je: FC Salzburg 1:0 Wolfsburg
+Najboljša napoved je: FC Salzburg 1:0 Wolfsburg 
 Pričakovane točke = 2.41
 
 Verjetnosti točk:
@@ -32,17 +32,17 @@ Verjetnosti točk:
      4 ...... 26.5%
      8 ...... 9.2%
 
-Čas računanja: 0.037 sekund
+Čas računanja: 0.024 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 3:1
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 CHELSEA : MALMO FF
-
-Najboljša napoved je: Chelsea 1:0 Malmo FF 
+ 
+Najboljša napoved je: Chelsea 1:0 Malmo FF
 Pričakovane točke = 3.89
 
 Verjetnosti točk:
@@ -52,10 +52,10 @@ Verjetnosti točk:
      4 ...... 60.8%
      8 ...... 10.3%
 
-Čas računanja: 0.031 sekund
+Čas računanja: 0.023 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 4:0
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -72,30 +72,30 @@ Verjetnosti točk:
      4 ...... 25.4%
      6 ...... 10.0%
 
-Čas računanja: 0.031 sekund
+Čas računanja: 0.022 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:1
+Končne točke: 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 BENFICA : BAYERN MUNICH
- 
-Najboljša napoved je: Benfica 1:2 Bayern Munich
-Pričakovane točke = 3.15
+
+Najboljša napoved je: Benfica 0:2 Bayern Munich
+Pričakovane točke = 3.16
 
 Verjetnosti točk:
-     0 ...... 12.6%
-     1 ...... 16.6%
-     3 ...... 21.9%
-     4 ...... 39.6%
-     8 ...... 9.2%
+     0 ...... 19.0%
+     1 ...... 10.3%
+     3 ...... 16.0%
+     4 ...... 44.9%
+     8 ...... 9.8%
 
-Čas računanja: 0.033 sekund
+Čas računanja: 0.024 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:4
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -112,10 +112,10 @@ Verjetnosti točk:
      4 ...... 24.2%
      6 ...... 12.7%
 
-Čas računanja: 0.030 sekund
+Čas računanja: 0.022 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:0
+Končne točke: 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -132,10 +132,10 @@ Verjetnosti točk:
      4 ...... 27.1%
      6 ...... 8.7%
 
-Čas računanja: 0.032 sekund
+Čas računanja: 0.028 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 1:4
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -152,8 +152,8 @@ Verjetnosti točk:
      4 ...... 31.1%
      8 ...... 6.9%
 
-Čas računanja: 0.031 sekund
+Čas računanja: 0.024 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 3:2
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
