@@ -1,21 +1,21 @@
  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-WOLFSBURG : FC SALZBURG 
- 
-Najboljša napoved je: Wolfsburg 2:1 FC Salzburg
-Pričakovane točke = 2.00
+WOLFSBURG : FC SALZBURG
+
+Najboljša napoved je: Wolfsburg 1:0 FC Salzburg
+Pričakovane točke = 2.13
 
 Verjetnosti točk:
-     0 ...... 30.4%
-     1 ...... 29.4%
-     3 ...... 7.4%
-     4 ...... 24.2%
-     6 ...... 8.6%
+     0 ...... 29.2%
+     1 ...... 30.6%
+     3 ...... 9.3%
+     4 ...... 23.1%
+     8 ...... 7.8%
 
-Čas računanja: 0.030 sekund
+Čas računanja: 0.028 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:1
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -32,19 +32,19 @@ Verjetnosti točk:
      4 ...... 51.6%
      8 ...... 9.8%
 
-Čas računanja: 0.027 sekund
+Čas računanja: 0.030 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:1
+Končne točke: 8
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SEVILLA : LILLE
- 
-Najboljša napoved je: Sevilla 1:0 Lille
-Pričakovane točke = 2.89
 
+Najboljša napoved je: Sevilla 1:0 Lille 
+Pričakovane točke = 2.89
+ 
 Verjetnosti točk:
      0 ...... 13.8%
      1 ...... 25.1%
@@ -54,15 +54,15 @@ Verjetnosti točk:
 
 Čas računanja: 0.028 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 1:2
+Končne točke: 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 VILLARREAL : YOUNG BOYS
  
-Najboljša napoved je: Villarreal 2:1 Young Boys
+Najboljša napoved je: Villarreal 2:1 Young Boys 
 Pričakovane točke = 2.80
 
 Verjetnosti točk:
@@ -72,17 +72,17 @@ Verjetnosti točk:
      4 ...... 37.0%
      6 ...... 9.4%
 
-Čas računanja: 0.029 sekund
+Čas računanja: 0.031 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:1
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ATALANTA : MAN UTD
  
-Najboljša napoved je: Atalanta 0:1 Man Utd
+Najboljša napoved je: Atalanta 0:1 Man Utd 
 Pričakovane točke = 2.12
 
 Verjetnosti točk:
@@ -92,17 +92,17 @@ Verjetnosti točk:
      4 ...... 24.8%
      8 ...... 6.0%
 
-Čas računanja: 0.028 sekund
+Čas računanja: 0.042 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:2
+Končne točke: 0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 DYNAMO KIEV : BARCELONA
  
-Najboljša napoved je: Dynamo Kiev 0:1 Barcelona
+Najboljša napoved je: Dynamo Kiev 0:1 Barcelona 
 Pričakovane točke = 2.66
 
 Verjetnosti točk:
@@ -112,37 +112,37 @@ Verjetnosti točk:
      4 ...... 33.9%
      6 ...... 10.6%
 
-Čas računanja: 0.029 sekund
+Čas računanja: 0.059 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:1
+Končne točke: 6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 BAYERN MUNICH : BENFICA
- 
-Najboljša napoved je: Bayern Munich 1:0 Benfica 
-Pričakovane točke = 3.39
+
+Najboljša napoved je: Bayern Munich 2:0 Benfica
+Pričakovane točke = 3.55
 
 Verjetnosti točk:
-     0 ...... 7.6%
-     1 ...... 9.3%
-     3 ...... 28.1%
-     4 ...... 48.4%
-     8 ...... 6.5%
+     0 ...... 10.9%
+     1 ...... 6.0%
+     3 ...... 21.1%
+     4 ...... 52.6%
+     8 ...... 9.3%
 
-Čas računanja: 0.027 sekund
+Čas računanja: 0.055 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 5:2
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 JUVENTUS : ZENIT ST PETERSBURG
- 
-Najboljša napoved je: Juventus 1:0 Zenit St Petersburg 
+
+Najboljša napoved je: Juventus 1:0 Zenit St Petersburg
 Pričakovane točke = 2.85
 
 Verjetnosti točk:
@@ -152,8 +152,8 @@ Verjetnosti točk:
      4 ...... 37.0%
      6 ...... 11.9%
 
-Čas računanja: 0.027 sekund
+Čas računanja: 0.046 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 4:2
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
