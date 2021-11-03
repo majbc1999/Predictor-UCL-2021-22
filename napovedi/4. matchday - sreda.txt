@@ -1,28 +1,28 @@
- 
+  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-AC MILAN : FC PORTO 
+AC MILAN : FC PORTO
  
 Najboljša napoved je: AC Milan 1:0 FC Porto 
 Pričakovane točke = 2.37
- 
+
 Verjetnosti točk:
      0 ...... 22.3%
      1 ...... 28.0%
      3 ...... 10.8%
      4 ...... 28.3%
      6 ...... 10.5%
- 
-Čas računanja: 0.022 sekund
- 
-Končni rezultat:
-Končne točke:
+
+Čas računanja: 0.046 sekund
+
+Končni rezultat: 1:1
+Končne točke: 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 REAL MADRID : SHAKHTAR DONETSK
  
-Najboljša napoved je: Real Madrid 1:0 Shakhtar Donetsk
+Najboljša napoved je: Real Madrid 1:0 Shakhtar Donetsk 
 Pričakovane točke = 3.47
 
 Verjetnosti točk:
@@ -32,15 +32,15 @@ Verjetnosti točk:
      4 ...... 49.4%
      8 ...... 9.1%
 
-Čas računanja: 0.024 sekund
+Čas računanja: 0.033 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:1
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-LIVERPOOL : ATLETICO MADRID
+LIVERPOOL : ATLETICO MADRID 
  
 Najboljša napoved je: Liverpool 1:0 Atletico Madrid
 Pričakovane točke = 2.83
@@ -52,17 +52,17 @@ Verjetnosti točk:
      4 ...... 33.5%
      8 ...... 10.3%
 
-Čas računanja: 0.024 sekund
+Čas računanja: 0.031 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:0
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SPORTING : BESIKTAS
  
-Najboljša napoved je: Sporting 3:0 Besiktas
+Najboljša napoved je: Sporting 3:0 Besiktas 
 Pričakovane točke = 3.03
 
 Verjetnosti točk:
@@ -72,17 +72,17 @@ Verjetnosti točk:
      4 ...... 45.1%
      8 ...... 8.4%
 
-Čas računanja: 0.027 sekund
+Čas računanja: 0.032 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 4:0 
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 MAN CITY : CLUB BRUGGE
  
-Najboljša napoved je: Man City 1:0 Club Brugge 
+Najboljša napoved je: Man City 1:0 Club Brugge
 Pričakovane točke = 3.68
 
 Verjetnosti točk:
@@ -92,10 +92,10 @@ Verjetnosti točk:
      4 ...... 55.9%
      8 ...... 8.4%
 
-Čas računanja: 0.029 sekund
+Čas računanja: 0.035 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 4:1
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -112,10 +112,10 @@ Verjetnosti točk:
      4 ...... 24.2%
      8 ...... 6.6%
 
-Čas računanja: 0.036 sekund
+Čas računanja: 0.042 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:2
+Končne točke: 0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -132,28 +132,28 @@ Verjetnosti točk:
      4 ...... 45.4%
      8 ...... 9.8%
 
-Čas računanja: 0.052 sekund
+Čas računanja: 0.040 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 1:3
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-BORUSSIA DORTMUND : AJAX 
+BORUSSIA DORTMUND : AJAX
  
-Najboljša napoved je: Borussia Dortmund 1:2 Ajax 
-Pričakovane točke = 2.04
+Najboljša napoved je: Borussia Dortmund 1:0 Ajax 
+Pričakovane točke = 1.94
 
 Verjetnosti točk:
-     0 ...... 33.1%
-     1 ...... 28.9%
-     3 ...... 7.5%
-     4 ...... 22.7%
-     8 ...... 7.8%
+     0 ...... 32.5%
+     1 ...... 28.5%
+     3 ...... 11.1%
+     4 ...... 22.6%
+     8 ...... 5.3%
 
-Čas računanja: 0.057 sekund
+Čas računanja: 0.034 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 1:3
+Končne točke: 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
