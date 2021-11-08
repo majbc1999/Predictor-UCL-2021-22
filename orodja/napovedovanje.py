@@ -26,14 +26,14 @@ sez16 = ["2:1", "2:2", "1:2", ""]
 # Tukaj izračuna vse
 
 # Tekme 19.10.
-#vrni_napoved(sez01, '01', matchday)
-#vrni_napoved(sez02, '02', matchday)
-#vrni_napoved(sez03, '03', matchday)
-#vrni_napoved(sez04, '04', matchday)
-#vrni_napoved(sez05, '05', matchday)
-#vrni_napoved(sez06, '06', matchday)
-#vrni_napoved(sez07, '07', matchday)
-#vrni_napoved(sez08, '08', matchday)
+vrni_napoved(sez01, '01', matchday)
+vrni_napoved(sez02, '02', matchday)
+vrni_napoved(sez03, '03', matchday)
+vrni_napoved(sez04, '04', matchday)
+vrni_napoved(sez05, '05', matchday)
+vrni_napoved(sez06, '06', matchday)
+vrni_napoved(sez07, '07', matchday)
+vrni_napoved(sez08, '08', matchday)
 
 # Tekme 20.10.
 vrni_napoved(sez09, '09', matchday)
