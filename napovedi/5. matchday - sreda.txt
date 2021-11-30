@@ -12,16 +12,16 @@ Verjetnosti točk:
      4 ...... 39.7%
      8 ...... 8.3%
 
-Čas računanja: 0.099 sekund
+Čas računanja: 0.108 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 1:2
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 INTER MILAN : SHAKHTAR DONETSK 
- 
+
 Najboljša napoved je: Inter Milan 1:0 Shakhtar Donetsk
 Pričakovane točke = 3.30
 
@@ -32,16 +32,16 @@ Verjetnosti točk:
      4 ...... 44.1%
      8 ...... 9.3%
 
-Čas računanja: 0.092 sekund
+Čas računanja: 0.091 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:0
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-CLUB BRUGGE : RB LEIPZIG
- 
+CLUB BRUGGE : RB LEIPZIG 
+
 Najboljša napoved je: Club Brugge 1:2 RB Leipzig
 Pričakovane točke = 2.17
 
@@ -52,10 +52,10 @@ Verjetnosti točk:
      4 ...... 26.3%
      6 ...... 9.0%
 
-Čas računanja: 0.114 sekund
+Čas računanja: 0.109 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:5
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -72,10 +72,10 @@ Verjetnosti točk:
      4 ...... 33.9%
      8 ...... 11.4%
 
-Čas računanja: 0.109 sekund
+Čas računanja: 0.118 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:1
+Končne točke: 0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -92,10 +92,10 @@ Verjetnosti točk:
      4 ...... 45.9%
      8 ...... 8.2%
 
-Čas računanja: 0.089 sekund
+Čas računanja: 0.101 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:3
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -112,16 +112,16 @@ Verjetnosti točk:
      4 ...... 22.9%
      8 ...... 8.2%
 
-Čas računanja: 0.106 sekund
+Čas računanja: 0.109 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 3:1
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 MAN CITY : PSG 
-
+ 
 Najboljša napoved je: Man City 1:0 PSG
 Pričakovane točke = 2.81
 
@@ -132,16 +132,16 @@ Verjetnosti točk:
      4 ...... 34.8%
      8 ...... 8.2%
 
-Čas računanja: 0.106 sekund
+Čas računanja: 0.130 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:1
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 LIVERPOOL : FC PORTO 
-
+ 
 Najboljša napoved je: Liverpool 2:1 FC Porto
 Pričakovane točke = 2.54
 
@@ -152,8 +152,8 @@ Verjetnosti točk:
      4 ...... 30.0%
      8 ...... 9.5%
 
-Čas računanja: 0.091 sekund
+Čas računanja: 0.097 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:0
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
