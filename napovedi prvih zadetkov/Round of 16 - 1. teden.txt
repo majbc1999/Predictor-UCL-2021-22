@@ -4,11 +4,11 @@ PSG : REAL MADRID
 
 Ekipa: PSG
 E(točke): 0.56
-Točke:
+Točke: 1
 
 Igralec: Mbappe
 E(točke): 0.29
-Točke:
+Točke: 2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -18,11 +18,11 @@ SPORTING : MAN CITY
 
 Ekipa: MAN CITY
 E(točke): 0.74
-Točke:
+Točke: 1
 
 Igralec: de Bruyne
 E(točke): 0.23
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -32,11 +32,11 @@ INTER MILAN : LIVERPOOL
  
 Ekipa: LIVERPOOL
 E(točke): 0.55
-Točke:
+Točke: 1
 
 Igralec: Salah
 E(točke): 0.29
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -46,10 +46,10 @@ FC SALZBURG : BAYERN MUNICH
 
 Ekipa: BAYERN MUNICH
 E(točke): 0.74
-Točke:
+Točke: 0
 
 Igralec: Lewandowski
 E(točke): 0.46
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
