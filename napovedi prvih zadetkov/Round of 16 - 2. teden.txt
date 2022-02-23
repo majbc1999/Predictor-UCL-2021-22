@@ -4,11 +4,11 @@ VILLARREAL : JUVENTUS
 
 Ekipa: VILLAREAL
 E(točke): 0.49
-Točke: 
+Točke: 0
 
 Igralec: Danjuma
 E(točke): 0.25
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -18,11 +18,11 @@ CHELSEA : LILLE
 
 Ekipa: Chelsea
 E(točke): 0.74
-Točke: 
+Točke: 1
 
 Igralec: Havertz
 E(točke): 0.27
-Točke: 
+Točke: 2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -32,11 +32,11 @@ ATLETICO MADRID : MAN UTD
 
 Ekipa: ATLETICO
 E(točke): 0.50
-Točke: 
+Točke: 1
 
 Igralec: Ronaldo
 E(točke): 0.25
-Točke: 
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -46,10 +46,10 @@ BENFICA : AJAX
 
 Ekipa: AJAX
 E(točke): 0.59
-Točke: 
+Točke: 1
 
 Igralec: Haller
 E(točke): 0.29
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
