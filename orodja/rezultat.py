@@ -10,7 +10,7 @@ import time
 
     ### NAJBOLJŠA NAPOVED ###
 
-def simulacija(verjetnosti, popularni, ekipe):
+def simulacija(verjetnosti, popularni, ekipe, prejsnji_rezultat):
 
         print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
         print(ekipe[0].upper() + " : " + ekipe[1].upper())
@@ -22,11 +22,14 @@ def simulacija(verjetnosti, popularni, ekipe):
         for i in range(10):
             for j in range(10):
                 rezultat = str(i) + ":" + str(j)
-                upanje_trenutno = upanje(rezultat, verjetnosti, popularni)
-                if upanje_trenutno[0] >= upanje1:
-                    upanje1 = upanje_trenutno[0]
-                    najboljsa_napoved = rezultat
-                    slovar_tock = upanje_trenutno[1]
+
+                # ne upoštevamo rezultatov, ki vodijo v podaljšek
+                if (i + prejsnji_rezultat[0] != j + prejsnji_rezultat[1]):
+                    upanje_trenutno = upanje(rezultat, verjetnosti, popularni)
+                    if upanje_trenutno[0] >= upanje1:
+                        upanje1 = upanje_trenutno[0]
+                        najboljsa_napoved = rezultat
+                        slovar_tock = upanje_trenutno[1]
 
 
         print(" ")
@@ -102,7 +105,7 @@ def tocke(rezultat, napoved, popularni):
 
 
     ### FUNKCIJA, KI VSE POVEZUJE ###
-def vrni_napoved(seznam_popularnih_rezultatov, datoteka_kvot, matchday):
+def vrni_napoved(seznam_popularnih_rezultatov, datoteka_kvot, matchday, prejsnji_rezultat):
         print(" ")
         start = time.perf_counter()
 
@@ -116,7 +119,7 @@ def vrni_napoved(seznam_popularnih_rezultatov, datoteka_kvot, matchday):
         # Prva in druga ekipa (pazi vrstni red glede na kvote)
         ekipe = [kvote_polepsane[0], kvote_polepsane[1]]
     
-        simulacija(verjetnosti(kvote), popularni_rezultati, ekipe)
+        simulacija(verjetnosti(kvote), popularni_rezultati, ekipe, prejsnji_rezultat)
 
         end = time.perf_counter()
         cas = end - start
