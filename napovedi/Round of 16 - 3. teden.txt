@@ -14,8 +14,8 @@ Verjetnosti točk:
 
 Čas računanja: 0.017 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 7:1
+Končne točke: 3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -34,8 +34,8 @@ Verjetnosti točk:
 
 Čas računanja: 0.020 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:1
+Končne točke: 0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -54,8 +54,8 @@ Verjetnosti točk:
 
 Čas računanja: 0.025 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:0
+Končne točke: 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -74,7 +74,7 @@ Verjetnosti točk:
 
 Čas računanja: 0.019 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 3:1
+Končne točke: 0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

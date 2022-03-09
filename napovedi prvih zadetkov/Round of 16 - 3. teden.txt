@@ -4,11 +4,11 @@ BAYERN MUNICH : FC SALZBURG
 
 Ekipa: BAYERN MUNICH
 E(točke): 0.76
-Točke: 
+Točke: 1
 
 Igralec: Lewandowski
 E(točke): 0.50
-Točke: 
+Točke: 2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -18,11 +18,11 @@ LIVERPOOL : INTER MILAN
 
 Ekipa: LIVERPOOL
 E(točke): 0.65
-Točke:
+Točke: 0
 
 Igralec: Salah
 E(točke): 0.34
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -32,11 +32,11 @@ MAN CITY : SPORTING
  
 Ekipa: MAN CITY
 E(točke): 0.79
-Točke: 
+Točke: 0
 
 Igralec: Mahrez
 E(točke): 0.32
-Točke: 
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -46,10 +46,10 @@ REAL MADRID : PSG
 
 Ekipa: PSG
 E(točke): 0.49
-Točke: 
+Točke: 1
 
 Igralec: Benzema
 E(točke): 0.29
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
