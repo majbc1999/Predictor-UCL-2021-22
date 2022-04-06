@@ -4,11 +4,11 @@ BENFICA : LIVERPOOL
 
 Ekipa: LIVERPOOL
 E(točke): 0.70
-Točke:
+Točke: 1
 
 Igralec: Salah
 E(točke): 0.32
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -18,11 +18,11 @@ MAN CITY : ATLETICO MADRID
 
 Ekipa: MAN CITY
 E(točke): 0.73
-Točke:
+Točke: 1
 
 Igralec: Mahrez
 E(točke): 0.25
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -32,11 +32,11 @@ VILLARREAL : BAYERN MUNICH
 
 Ekipa: BAYERN MUNICH
 E(točke): 0.64
-Točke:
+Točke: 0
 
 Igralec: Lewandowski
 E(točke): 0.42
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -46,10 +46,10 @@ CHELSEA : REAL MADRID
 
 Ekipa: CHELSEA
 E(točke): 0.55
-Točke:
+Točke: 0
 
 Igralec: Benzema
 E(točke): 0.23
-Točke:
+Točke: 2
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
