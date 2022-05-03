@@ -4,11 +4,11 @@ MAN CITY : REAL MADRID
 
 Ekipa: MAN CITY
 E(točke): 0.68
-Točke:
+Točke: 1
 
 Igralec: Mahrez
 E(točke): 0.23
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -18,10 +18,10 @@ LIVERPOOL : VILLARREAL
 
 Ekipa: LIVERPOOL
 E(točke): 0.74
-Točke:
+Točke: 1
 
 Igralec: Salah
 E(točke): 0.34
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
