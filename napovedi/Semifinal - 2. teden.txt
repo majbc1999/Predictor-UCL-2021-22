@@ -14,8 +14,8 @@ Verjetnosti točk:
 
 Čas računanja: 0.166 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 2:3 
+Končne točke: 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
@@ -25,7 +25,7 @@ REAL MADRID : MAN CITY
 Najboljša napoved je: Real Madrid 0:1 Man City
 Pričakovane točke = 2.22
 
-Verjetnosti točk:
+Verjetnosti točk: 
      0 ...... 27.3%
      1 ...... 27.4%
      3 ...... 13.9%
@@ -34,6 +34,6 @@ Verjetnosti točk:
 
 Čas računanja: 0.164 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 3:1
+Končne točke: 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

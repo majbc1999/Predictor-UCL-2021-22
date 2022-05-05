@@ -4,11 +4,11 @@ VILLARREAL : LIVERPOOL
 
 Ekipa: LIVERPOOL
 E(točke): 0.61
-Točke:
+Točke: 0
 
 Igralec: Salah
 E(točke): 0.29
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -18,10 +18,10 @@ REAL MADRID : MAN CITY
 
 Ekipa: MAN CITY
 E(točke): 0.55
-Točke:
+Točke: 1
 
 Igralec: Benzema
 E(točke): 0.25
-Točke:
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
