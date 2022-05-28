@@ -4,10 +4,10 @@ LIVERPOOL : REAL MADRID
 
 Ekipa: LIVERPOOL
 E(točke): 0.56
-Točke: 
+Točke: 0
 
 Igralec: Salah
 E(točke): 0.28
-Točke: 
+Točke: 0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

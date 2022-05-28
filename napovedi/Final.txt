@@ -14,6 +14,6 @@ Verjetnosti točk:
 
 Čas računanja: 0.138 sekund
 
-Končni rezultat:
-Končne točke:
+Končni rezultat: 0:1
+Končne točke: 0
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
